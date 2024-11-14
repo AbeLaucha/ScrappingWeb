@@ -25,3 +25,5 @@ Páginas web seleccionadas:
 
 ## Diagrama de flujo:
 ![image](https://github.com/user-attachments/assets/9dca3370-d457-4bb3-8c9c-ef50a6e2d640)
+
+### Tratamiento y análisis de datos: [Visualización por Google Sheets](https://docs.google.com/spreadsheets/d/19hSllEe0TwnLs4xaYp4H8q9mFh-SFaxDluUmVsP_8GM/edit?gid=0#gid=0)
